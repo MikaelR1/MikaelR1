@@ -3,9 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java programming project</b>
-  - 
+  - [Lejos robot project](https://github.com/MikaelR1/JavaRobotCode)
 - <b>Pyhton Ipynb</b>
-  - 
+  - [Ipynb files]
 
 - <b>Python</b>
   -
