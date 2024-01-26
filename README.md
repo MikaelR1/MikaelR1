@@ -20,7 +20,7 @@
 
 
 [instagram]: https://www.instagram.com
-[linkedin]: [https://linkedin.com/in/](https://www.linkedin.com/in/mikael-rokkanen/)
+[linkedin]: (https://www.linkedin.com/in/mikael-rokkanen/)
 
 <!--
 
