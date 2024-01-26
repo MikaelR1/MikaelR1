@@ -5,7 +5,7 @@
 - <b>Java programming project</b>
   - [Lejos robot project](https://github.com/MikaelR1/JavaRobotCode)
 - <b>Pyhton Ipynb</b>
-  - [Ipynb files]
+  - [Ipynb files](https://github.com/MikaelR1/Ipynb)
 
 - <b>Python</b>
   -
