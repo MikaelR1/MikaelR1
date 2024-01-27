@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mikael</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Project and Other Tasks:</h2>
 
 - <b>Java programming project</b>
   - [Lejos robot project](https://github.com/MikaelR1/JavaRobotCode)
