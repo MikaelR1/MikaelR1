@@ -12,10 +12,12 @@
   
 
 
-<!--
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Mikael Rokkanen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h2> 🤳 Where to find me:</h2>
+<a href="https://www.linkedin.com/in/mikael-rokkanen" target="_blank">
+<img align="left" alt="Mikael Rokkanen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<!--
 [<img align="left" alt="Mikael Rokkanen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
